@@ -1,3 +1,5 @@
+# Basic Cricket Simulation game 
+
 import random
 
 team_A = input('Enter the name of first team : ')
